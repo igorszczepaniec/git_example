@@ -15,4 +15,9 @@
    - git stash pop --index "0-9..."
    - git checkout master
    - git merge branch_name
-   
+   - git branch -d branch_name
+   - git branch
+   - git remote
+   - git remote -v    
+   - git remote add (origin || dupa) remote address ulr
+   - git remote rm (origin || dupa)
