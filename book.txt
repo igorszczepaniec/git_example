@@ -13,6 +13,7 @@
    - git stash
    - git checkout -b nazwa_branch
    - git stash pop --index "0-9..."
+<<<<<<< HEAD
    - git checkout master
    - git merge branch_name
    - git branch -d branch_name
@@ -25,3 +26,6 @@
    - git push origin master (--force) // raczej forsa nie 
    - git push origin -u master ( - u upstream set ) // master domyslna branch
    - 
+=======
+   - git 
+>>>>>>> parent of 995def4... added more commands, fixed conflicts
