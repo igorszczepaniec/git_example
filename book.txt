@@ -8,4 +8,9 @@
    - git ammend
    - git log
    - git checkout -- book.txt
-   -
+   - git diff 
+   - git reset Head
+   - git stash
+   - git checkout -b nazwa_branch
+   - git stash pop --index "0-9..."
+   - git 
