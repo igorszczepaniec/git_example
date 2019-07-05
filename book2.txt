@@ -1,0 +1,11 @@
+
+2. Non git commands
+
+- cd
+- ls 
+- ls -a
+- nano 
+- rm
+- rm - r
+- mkdir
+
