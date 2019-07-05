@@ -21,3 +21,7 @@
    - git remote -v    
    - git remote add (origin || dupa) remote address ulr
    - git remote rm (origin || dupa)
+   - git pull origin master ( z origina do mastera ) 
+   - git push origin master (--force) // raczej forsa nie 
+   - git push origin -u master ( - u upstream set ) // master domyslna branch
+   - 
